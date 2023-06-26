@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/naveenkumar_se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mythreyan Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mythreyan-p-69b85a213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mythreyan-p-69b85a213" height="30" width="40" /></a>
 </p>
 
